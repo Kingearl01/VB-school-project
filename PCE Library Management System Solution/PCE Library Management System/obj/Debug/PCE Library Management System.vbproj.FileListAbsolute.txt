@@ -1,0 +1,13 @@
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\PCE Library Management System Solution\PCE Library Management System\bin\Debug\PCE Library Management System.exe.config
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\PCE Library Management System Solution\PCE Library Management System\obj\Debug\PCE Library Management System.vbprojResolveAssemblyReference.cache
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\PCE Library Management System Solution\PCE Library Management System\obj\Debug\PCE_Library_Management_System.Librarian.resources
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\PCE Library Management System Solution\PCE Library Management System\obj\Debug\PCE_Library_Management_System.Resources.resources
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\PCE Library Management System Solution\PCE Library Management System\obj\Debug\PCE Library Management System.vbproj.GenerateResource.Cache
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\PCE Library Management System Solution\PCE Library Management System\obj\Debug\PCE Library Management System.xml
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\PCE Library Management System Solution\PCE Library Management System\bin\Debug\PCE Library Management System.exe
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\PCE Library Management System Solution\PCE Library Management System\bin\Debug\PCE Library Management System.pdb
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\PCE Library Management System Solution\PCE Library Management System\bin\Debug\PCE Library Management System.xml
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\PCE Library Management System Solution\PCE Library Management System\obj\Debug\PCE Library Management System.exe
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\PCE Library Management System Solution\PCE Library Management System\obj\Debug\PCE Library Management System.pdb
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\PCE Library Management System Solution\PCE Library Management System\bin\Debug\dbLibrary.mdf
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\PCE Library Management System Solution\PCE Library Management System\bin\Debug\dbLibrary_log.ldf

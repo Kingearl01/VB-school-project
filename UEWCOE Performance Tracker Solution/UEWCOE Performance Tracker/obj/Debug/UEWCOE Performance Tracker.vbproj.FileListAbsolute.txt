@@ -1,0 +1,11 @@
+C:\Users\EARL KALF_OFFICIAL\Documents\Visual Studio 2015\Projects\VB2015\UEWCOE Performance Tracker Solution\UEWCOE Performance Tracker\bin\Debug\UEWCOE Performance Tracker.exe.config
+C:\Users\EARL KALF_OFFICIAL\Documents\Visual Studio 2015\Projects\VB2015\UEWCOE Performance Tracker Solution\UEWCOE Performance Tracker\bin\Debug\UEWCOE Performance Tracker.exe
+C:\Users\EARL KALF_OFFICIAL\Documents\Visual Studio 2015\Projects\VB2015\UEWCOE Performance Tracker Solution\UEWCOE Performance Tracker\bin\Debug\UEWCOE Performance Tracker.pdb
+C:\Users\EARL KALF_OFFICIAL\Documents\Visual Studio 2015\Projects\VB2015\UEWCOE Performance Tracker Solution\UEWCOE Performance Tracker\bin\Debug\UEWCOE Performance Tracker.xml
+C:\Users\EARL KALF_OFFICIAL\Documents\Visual Studio 2015\Projects\VB2015\UEWCOE Performance Tracker Solution\UEWCOE Performance Tracker\obj\Debug\UEWCOE Performance Tracker.vbprojResolveAssemblyReference.cache
+C:\Users\EARL KALF_OFFICIAL\Documents\Visual Studio 2015\Projects\VB2015\UEWCOE Performance Tracker Solution\UEWCOE Performance Tracker\obj\Debug\UEWCOE_Performance_Tracker.Level100.resources
+C:\Users\EARL KALF_OFFICIAL\Documents\Visual Studio 2015\Projects\VB2015\UEWCOE Performance Tracker Solution\UEWCOE Performance Tracker\obj\Debug\UEWCOE_Performance_Tracker.Resources.resources
+C:\Users\EARL KALF_OFFICIAL\Documents\Visual Studio 2015\Projects\VB2015\UEWCOE Performance Tracker Solution\UEWCOE Performance Tracker\obj\Debug\UEWCOE Performance Tracker.vbproj.GenerateResource.Cache
+C:\Users\EARL KALF_OFFICIAL\Documents\Visual Studio 2015\Projects\VB2015\UEWCOE Performance Tracker Solution\UEWCOE Performance Tracker\obj\Debug\UEWCOE Performance Tracker.exe
+C:\Users\EARL KALF_OFFICIAL\Documents\Visual Studio 2015\Projects\VB2015\UEWCOE Performance Tracker Solution\UEWCOE Performance Tracker\obj\Debug\UEWCOE Performance Tracker.xml
+C:\Users\EARL KALF_OFFICIAL\Documents\Visual Studio 2015\Projects\VB2015\UEWCOE Performance Tracker Solution\UEWCOE Performance Tracker\obj\Debug\UEWCOE Performance Tracker.pdb

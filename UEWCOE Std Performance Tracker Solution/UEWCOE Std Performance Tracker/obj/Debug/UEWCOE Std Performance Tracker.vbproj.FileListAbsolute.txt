@@ -1,0 +1,34 @@
+C:\Users\EARL KALF_OFFICIAL\Documents\Visual Studio 2015\Projects\VB2015\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\bin\Debug\UEWCOE Std Performance Tracker.exe.config
+C:\Users\EARL KALF_OFFICIAL\Documents\Visual Studio 2015\Projects\VB2015\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\bin\Debug\UEWCOE Std Performance Tracker.exe
+C:\Users\EARL KALF_OFFICIAL\Documents\Visual Studio 2015\Projects\VB2015\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\bin\Debug\UEWCOE Std Performance Tracker.pdb
+C:\Users\EARL KALF_OFFICIAL\Documents\Visual Studio 2015\Projects\VB2015\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\bin\Debug\UEWCOE Std Performance Tracker.xml
+C:\Users\EARL KALF_OFFICIAL\Documents\Visual Studio 2015\Projects\VB2015\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\obj\Debug\UEWCOE Std Performance Tracker.vbprojResolveAssemblyReference.cache
+C:\Users\EARL KALF_OFFICIAL\Documents\Visual Studio 2015\Projects\VB2015\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\obj\Debug\UEWCOE_Std_Performance_Tracker.MainForm.resources
+C:\Users\EARL KALF_OFFICIAL\Documents\Visual Studio 2015\Projects\VB2015\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\obj\Debug\UEWCOE_Std_Performance_Tracker.Resources.resources
+C:\Users\EARL KALF_OFFICIAL\Documents\Visual Studio 2015\Projects\VB2015\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\obj\Debug\UEWCOE Std Performance Tracker.vbproj.GenerateResource.Cache
+C:\Users\EARL KALF_OFFICIAL\Documents\Visual Studio 2015\Projects\VB2015\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\obj\Debug\UEWCOE Std Performance Tracker.exe
+C:\Users\EARL KALF_OFFICIAL\Documents\Visual Studio 2015\Projects\VB2015\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\obj\Debug\UEWCOE Std Performance Tracker.xml
+C:\Users\EARL KALF_OFFICIAL\Documents\Visual Studio 2015\Projects\VB2015\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\obj\Debug\UEWCOE Std Performance Tracker.pdb
+C:\Users\EARL KALF_OFFICIAL\Documents\Visual Studio 2015\Projects\VB2015\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\bin\Debug\result.mdf
+C:\Users\EARL KALF_OFFICIAL\Documents\Visual Studio 2015\Projects\VB2015\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\bin\Debug\result_log.ldf
+C:\Users\EARL KALF_OFFICIAL\Documents\Visual Studio 2015\Projects\VB2015\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\EARL KALF_OFFICIAL\Documents\Visual Studio 2015\Projects\VB2015\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\bin\Debug\UEWCOE Std Performance Tracker.exe.config
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\obj\Debug\UEWCOE Std Performance Tracker.exe
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\obj\Debug\UEWCOE Std Performance Tracker.xml
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\obj\Debug\UEWCOE Std Performance Tracker.pdb
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\bin\Debug\UEWCOE Std Performance Tracker.exe
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\bin\Debug\UEWCOE Std Performance Tracker.pdb
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\bin\Debug\UEWCOE Std Performance Tracker.xml
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\obj\Debug\UEWCOE Std Performance Tracker.vbprojResolveAssemblyReference.cache
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\obj\Debug\UEWCOE_Std_Performance_Tracker.MainForm.resources
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\obj\Debug\UEWCOE_Std_Performance_Tracker.Resources.resources
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\obj\Debug\UEWCOE Std Performance Tracker.vbproj.GenerateResource.Cache
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\obj\Debug\UEWCOE_Std_Performance_Tracker.SplashScreen.resources
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\bin\Debug\UEWCOE Std Performance Tracker.exe.manifest
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\bin\Debug\UEWCOE Std Performance Tracker.application
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\obj\Debug\UEWCOE Std Performance Tracker.exe.manifest
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\obj\Debug\UEWCOE Std Performance Tracker.application
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\bin\Debug\dbgpa.mdf
+C:\Users\EARL_KALF\Desktop\VB PROJECTS\UEWCOE Std Performance Tracker Solution\UEWCOE Std Performance Tracker\bin\Debug\dbgpa_log.ldf
